@@ -30,7 +30,7 @@ settings.configure(
 
 
 def index(request):
-    return HttpResponse(f"Welcome Mr./Mrs ***!")
+    return HttpResponse(f"Welcome  ***!")
 
 
 urlpatterns = [
